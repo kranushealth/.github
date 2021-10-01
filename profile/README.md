@@ -38,17 +38,31 @@ We have our guiding principles and core beliefs that you hopefully share with us
 
 ## The tech stack
 
-Ok. Finally time for the tech stack, which is cloud-native through and through:
+Ok. Finally time for the tech stack, which is cloud-native through and through.
+
+![The Kranus Health Tech Stack](./kranus_techstack.png?raw=true "The Kranus Health Tech Stack")
+
+*All of the logos are property and trademarks of their respective owners and companies.*
 
 Backend + Platform:
-- FastAPI
+- FastAPI (+ pydantic)
 - Docker & k8s
 - ArgoCD & kustomize
 - Terraform
 - Datadog
+- ...
 
 Mobile app:
 - Flutter
+- ...
+
+Web app(s):
+- React
+- react-admin
+- Gatsby.js
+- yarn
+- Docker + nginx
+- ...
 
 We use GitHub (surprise!) & GitHub Actions for CI.
 
