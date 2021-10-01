@@ -64,7 +64,12 @@ Web app(s):
 - Docker + nginx
 - ...
 
-We use GitHub (surprise!) & GitHub Actions for CI.
+Product & Design:
+- Atlassian stack (Jira, Confluence)
+- Figma
+- Adobe CC
+
+We use GitHub (surprise!) & GitHub Actions for CI. Slack + G Suite for productivity.
 
 ## Why join?
 
