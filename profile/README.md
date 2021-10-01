@@ -95,3 +95,4 @@ We use GitHub (surprise!) & GitHub Actions for CI. Slack + G Suite for productiv
 
 Contact us at jobs@kranus-health.de with your application. Can't find the exact role you are looking for? Contact us!
 
+You can find our current open positions here: https://kranus-health.join.com/
