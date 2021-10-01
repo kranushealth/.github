@@ -40,7 +40,7 @@ We have our guiding principles and core beliefs that you hopefully share with us
 
 Ok. Finally time for the tech stack, which is cloud-native through and through.
 
-![The Kranus Health Tech Stack](./profile/kranus_techstack.png?raw=true "The Kranus Health Tech Stack")
+![The Kranus Health Tech Stack](./kranus_techstack.png?raw=true "The Kranus Health Tech Stack")
 
 *All of the logos are property and trademarks of their respective owners and companies.*
 
