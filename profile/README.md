@@ -91,4 +91,7 @@ We use GitHub (surprise!) & GitHub Actions for CI. Slack + G Suite for productiv
 🙌 Company Benefits: Benefit-Budget, Company Pension Plan, "Take-as-much-as-you-need" vacation policy
 
 
+## Interested?
+
+Contact us at jobs@kranus-health.de with your application. Can't find the exact role you are looking for? Contact us!
 
