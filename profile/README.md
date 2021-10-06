@@ -1,6 +1,6 @@
-## Hi there fellow engineers, tinkererers, designers, product people 🖖
+## Hi there fellow engineers, tinkerers, designers, product people 🖖
 
-Kranus Health is a digital native medical company focused on men's health. We are passionate about breaking taboo topics and bariers for sicknesses like erection problems. 
+Kranus Health is a digital native medical company focused on men's health. We are passionate about breaking taboo topics and bariers for sicknesses like erection problems.
 
 We do this by building digital therapeutics (DTx) that we deliver to our patients/users in the form of mobile applications. We develop our DTx together with our renowned in-house medical team from the Charité in Berlin.
 
