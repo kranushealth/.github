@@ -11,6 +11,8 @@ Some cool things about our first DTx Kranus Edera:
 - feedback loops for patients to change difficulty of training throughout the 12 weeks => so we can also build ML models ;-)
 - health assessment at the beginning of the DTx to assess fitness level and tailor the program to the user
 
+We have also started recently posting our new Kranus Health Engineering blog on Medium - it's waiting for your input: https://medium.com/kranus-health-engineering
+
 ## Our principles
 
 We have our guiding principles and core beliefs that you hopefully share with us:
