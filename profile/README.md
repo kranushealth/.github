@@ -1,17 +1,19 @@
 ## Hi there fellow engineers, tinkererers, designers, product people 🖖
 
-Kranus Health is a digital native medical company focused on men's health. We are passionate about breaking taboo topics and bariers for sicknesses like erection problems. 
+Kranus Health strives to globally set new standards in urological healthcare by offering comprehensive, patient-centric digital care journeys for various urological conditions. We are a founding team with a background in high-growth tech companies (e.g. Palantir, Celonis, Amazon) and Professor Dr. Miller from Charité Berlin with offices in Munich, Berlin and Paris.
 
 We do this by building digital therapeutics (DTx) that we deliver to our patients/users in the form of mobile applications. We develop our DTx together with our renowned in-house medical team from the Charité in Berlin.
 
-Some cool things about our first DTx Kranus Edera:
-- clinically proven to work! we did quite a bit of testing already
-- built with Flutter and available for iOS and Android on phones and tablets
+Some cool things about our first DTx Kranus Edera*:
+- clinically proven to work! one of the largest RCT trials in the industry
+- built with Flutter (clean app architecture) and available for iOS and Android on phones and tablets
 - ever expanding list of FastAPI microservices in production
 - feedback loops for patients to change difficulty of training throughout the 12 weeks => so we can also build ML models ;-)
 - health assessment at the beginning of the DTx to assess fitness level and tailor the program to the user
 
-We have also started recently posting our new Kranus Health Engineering blog on Medium - it's waiting for your input: https://medium.com/kranus-health-engineering
+*Our second product Kranus Lutera is actually also live and currently undergoing an RCT trial as well!
+
+We have also started recently posting our new Kranus Health Engineering blog on Medium - sadly it's still waiting for your input: https://medium.com/kranus-health-engineering
 
 ## Our principles
 
@@ -91,3 +93,6 @@ We use GitHub (surprise!) & GitHub Actions for CI. Slack + G Suite for productiv
 🥳 Fun and 🤓 smart people to work with
 
 🙌 Company Benefits: Benefit-Budget, Company Pension Plan, "Take-as-much-as-you-need" vacation policy
+
+Together, we can drive positive change in the digital health landscape and improve the lives of countless patients. Apply today to be a part of our exciting journey.
+
