@@ -74,7 +74,7 @@ Product & Design:
 - Adobe CC
 - ...
 
-We use GitHub (surprise!) & GitHub Actions for CI. Slack + G Suite for productivity.
+We use GitHub (surprise!) & GitHub Actions for CI. Teams + Microsoft Suite for productivity.
 
 ## Why join?
 
