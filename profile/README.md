@@ -24,7 +24,7 @@
 
 ## Hi there fellow engineers, tinkererers, designers, product people 🖖
 
-Kranus Health is the leading global provider of virtual care in Urology. The company focuses on developing clinically validated therapies for a wide range of indications from Andrology to Uro-Oncology. We are a founding team with a background in high-growth tech companies (e.g. Palantir, Celonis, Amazon) and Professor Dr. Miller from Charité Berlin with offices in Munich, Berlin and Paris.
+Kranus Health is the leading global provider of virtual care in Urology. The company focuses on developing clinically validated therapies for a wide range of indications from Andrology to Uro-Oncology. We are a founding team with a background in high-growth tech companies (e.g. Palantir, Celonis, Amazon) and Professor Dr. Miller from Charité Berlin with offices in Munich and Berlin.
 
 We do this by building digital therapeutics (DTx) that we deliver to our patients/users in the form of mobile applications. We develop our DTx together with our renowned in-house medical team from the Charité in Berlin. 
 
