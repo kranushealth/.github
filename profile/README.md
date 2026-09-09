@@ -49,32 +49,20 @@ We have our guiding principles and core beliefs that you hopefully share with us
 ## Who are we looking for
 
 - mission driven people that can identify with our principles and want to make a difference (in Munich or Berlin 🍺 💙)
-- 10x talent
-- learners and tinkerers
-- people that like writing tests and commenting on PRs
+- you love AI, but you like using your brain
+- learners and tinkerers, intrinsically motivated to do good work
 
-## The tech stack
+## The Stack
 
-Ok. Finally time for the tech stack, which is cloud-native through and through.
+Cloud-native through and through, now accelerated through AI across the entire org.
 
-Infra:
-- GCP
-- Docker & k8s
-- ArgoCD & kustomize
-- OpenTofu (take that Terraform)
-- Datadog
-- Teleport
-
-Backend: 
-- FastAPI (+ pydantic), sqlalchemy
-- PGDB
-- Redis
-
-Mobile apps: Flutter et al.
-
+- AI apps (on-prem): vLLM (currently w. Gemma models), LiteLLM, Langfuse, PydanticAI
+- AI apps (cloud): Gemini + plain vanilla agent specs and FastAPI
+- Infra: GCP, k8s everything + ArgoCD & kustomize, OpenTofu, DD, Teleport
+- Backend (monorepo): FastAPI, PGDB, Redis
+- Mobile apps (monorepo): Flutter
+  
 (+ a bunch of other stuff like React, TS, ... and we use GitHub (surprise!) & GitHub Actions for CI & CD)
-
-🤖 yes, we are AI-first where we can (from Recraft to Claude)
 
 ## Why join?
 
@@ -84,8 +72,6 @@ Mobile apps: Flutter et al.
 
 💼. Company of owners - full-time employees get equity in the company
 
-📠 Opportunity to work on new products and create a team around you as the company continues to grow if you are up for the challenge
-
 🚀 Fast-paced startup environment with _very_ flat hierarchies
 
 🌈 Very international environment and diverse crowd from all over the world!
@@ -94,4 +80,3 @@ Mobile apps: Flutter et al.
 
 🙌 Company Benefits: Benefit-Budget, Company Pension Plan, human vacation policies, ...
 
-Together, we can drive positive change in the digital health landscape and improve the lives of countless patients. Apply today to be a part of our exciting journey.
