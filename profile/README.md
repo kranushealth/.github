@@ -49,7 +49,7 @@ We have our guiding principles and core beliefs that you hopefully share with us
 ## Who are we looking for
 
 - mission driven people that can identify with our principles and want to make a difference (in Munich or Berlin 🍺 💙)
-- you love AI, but you like using your brain
+- you love AI, but you like using your brain even more
 - learners and tinkerers, intrinsically motivated to do good work
 
 ## The Stack
